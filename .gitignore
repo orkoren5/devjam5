@@ -1,0 +1,10 @@
+.idea/
+*.iml
+**/node_modules/**/
+**/hub.log
+**/hub.audit.log
+**/hub.access.log
+**/npm-debug.log
+**/audit.log
+**/distribution/**/
+**/coverage/**/
